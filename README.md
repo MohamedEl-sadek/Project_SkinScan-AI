@@ -81,8 +81,8 @@ Before running the system, ensure you have the following installed:
 
 Clone the repository:
 ```bash
-git clone https://github.com/moal223/gp_project_repo.git
-cd gp_project_repo
+git clone https://github.com/MohamedEl-sadek/Project_SkinScan-AI.git     
+cd Project_SkinScan-AI
 ```
 ---
 
