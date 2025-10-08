@@ -1,0 +1,50 @@
+# تجاهل كل حاجة
+/*
+
+# استثناء فولدر flutter
+!/flutter/
+
+# استثناء فولدر backend
+!/backend/
+
+# استثناء مشروعك فقط
+!/flutter/skin_scan_app/**
+
+# تجاهل أي فولدرات build أو مؤقتة جوا flutter
+flutter/*.class
+flutter/*.log
+flutter/*.pyc
+flutter/*.swp
+flutter/.DS_Store
+flutter/.atom/
+flutter/.buildlog/
+flutter/.history
+flutter/.svn/
+flutter/migrate_working_dir/
+
+# IntelliJ related
+flutter/*.iml
+flutter/*.ipr
+flutter/*.iws
+flutter/.idea/
+
+# Flutter/Dart/Pub related
+flutter/**/doc/api/
+flutter/**/ios/Flutter/.last_build_id
+flutter/.dart_tool/
+flutter/.flutter-plugins
+flutter/.flutter-plugins-dependencies
+flutter/.pub-cache/
+flutter/.pub/
+flutter/build/
+
+# Symbolication related
+flutter/app.*.symbols
+
+# Obfuscation related
+flutter/app.*.map.json
+
+# Android Studio build artifacts
+flutter/android/app/debug
+flutter/android/app/profile
+flutter/android/app/release
